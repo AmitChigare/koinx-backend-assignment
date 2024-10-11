@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "6708d2edcd5a2164acdf7364"
+  },
+  "currency": "bitcoin",
+  "price_usd": 60764,
+  "market_cap_usd": 1201374909083.3464,
+  "change_24h": -0.3563805128405281,
+  "timestamp": {
+    "$date": "2024-10-11T07:25:33.747Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6708d2edcd5a2164acdf7365"
+  },
+  "currency": "matic-network",
+  "price_usd": 0.369633,
+  "market_cap_usd": 991547091.69783,
+  "change_24h": 0.36246179819160695,
+  "timestamp": {
+    "$date": "2024-10-11T07:25:33.804Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6708d2edcd5a2164acdf7366"
+  },
+  "currency": "ethereum",
+  "price_usd": 2409.86,
+  "market_cap_usd": 290107221144.1452,
+  "change_24h": 0.43324398513023615,
+  "timestamp": {
+    "$date": "2024-10-11T07:25:33.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6708d41e262c1ac5b92b0542"
+  },
+  "currency": "bitcoin",
+  "price_usd": 60768,
+  "market_cap_usd": 1200911295423.7773,
+  "change_24h": -0.3161625597104353,
+  "timestamp": {
+    "$date": "2024-10-11T07:30:38.528Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6708d41e262c1ac5b92b0543"
+  },
+  "currency": "matic-network",
+  "price_usd": 0.369674,
+  "market_cap_usd": 991969971.4565145,
+  "change_24h": 1.3538986807509248,
+  "timestamp": {
+    "$date": "2024-10-11T07:30:38.538Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6708d41e262c1ac5b92b0544"
+  },
+  "currency": "ethereum",
+  "price_usd": 2409.83,
+  "market_cap_usd": 290097949222.0144,
+  "change_24h": 0.524793017853072,
+  "timestamp": {
+    "$date": "2024-10-11T07:30:38.540Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6708e7cc18a912a962dc932c"
+  },
+  "currency": "bitcoin",
+  "price_usd": 60638,
+  "market_cap_usd": 1199186259377.7751,
+  "change_24h": -0.19695456049591684,
+  "timestamp": {
+    "$date": "2024-10-11T08:54:36.879Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6708e7cc18a912a962dc932d"
+  },
+  "currency": "matic-network",
+  "price_usd": 0.371928,
+  "market_cap_usd": 997851541.1073718,
+  "change_24h": 1.6005249751922714,
+  "timestamp": {
+    "$date": "2024-10-11T08:54:36.895Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6708e7cc18a912a962dc932e"
+  },
+  "currency": "ethereum",
+  "price_usd": 2403.69,
+  "market_cap_usd": 289547072257.0743,
+  "change_24h": 0.9272399767934447,
+  "timestamp": {
+    "$date": "2024-10-11T08:54:36.899Z"
+  }
+}]
